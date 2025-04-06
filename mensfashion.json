@@ -1,66 +1,66 @@
 [
-  {
-    "title": "Puma Men's Solid Regular Fit T-Shirt",
-    "price": "₹669",
-    "cutted_price": "₹1,499",
-    "category": "Men's Fashion",
-    "link": "https://amzn.to/4jiyaen",
-    "img_src": "https://m.media-amazon.com/images/I/515RdZ6Y65L._SX679_.jpg"
-  },
-  {
-    "title": "Philips HL7759/00 Mixer Grinder, 750W Turbo Motor, 4 Jars (Black), Quick cool ventilation for longer motor life",
-    "price": "₹4,049",
-    "cutted_price": "₹5,695",
-    "category": "Electronics",
-    "link": "https://amzn.to/4ccoDTX",
-    "img_src": "https://m.media-amazon.com/images/I/71dwheuWUCL._SX679_.jpg"
-  },
-  {
-    "title": "Butterfly Jet Elite 750 Watts Mixer Grinder with 4 Jars | 3 Stainless Steel Multipurpose Jars & 1 Juicer Jar | ABS Body | Sturdy Polycarbonate Juicer Jar | 2 Years Manufacturer's Warranty | Grey",
-    "price": "₹3,299",
-    "cutted_price": "₹5,795",
-    "category": "Electronics",
-    "link": "https://amzn.to/3QTHZU7",
-    "img_src": "https://m.media-amazon.com/images/I/41qDEr04X0L._SX300_SY300_QL70_FMwebp_.jpg"
-  },
-  {
-    "title": "Butterfly Smart Mixer Grinder, 750W, 4 Jars (Grey)",
-    "price": "₹3,099",
-    "cutted_price": "₹5,069",
-    "category": "Electronics",
-    "link": "https://amzn.to/42bOBSK",
-    "img_src": "https://m.media-amazon.com/images/I/71+cDVETcIL._SX679_.jpg"
-  },
-  {
-    "title": "Lifelong Mixer Grinder for Kitchen - 3 Jars 500 Watt Mixie - Chutney Jar, Dry Grinder Jar & Liquidizing Jar used as Wet Grinder & Blender for Milkshake, Smoothie, Puree - Stainless Steel Blades(LLMG23)",
-    "price": "₹1,299",
-    "cutted_price": "₹3,500",
-    "category": "Electronics",
-    "link": "https://amzn.to/3E1CK1O",
-    "img_src": "https://m.media-amazon.com/images/I/41ONXdA8-GL._SX300_SY300_QL70_FMwebp_.jpg"
-  },
-  {
-    "title": "Sujata Supermix 900 Watts Mixer Grinder | 22000 Rotations Per Min | 90 Minutes Continuous Running | 3 Versatile Jars 1750 ml, 1000 ml and 400 ml",
-    "price": "₹5,790",
-    "cutted_price": "₹7,920",
-    "category": "Electronics",
-    "link": "https://amzn.to/3YdnuWf",
-    "img_src": "https://m.media-amazon.com/images/I/41CGjW-d7lL._SX300_SY300_QL70_FMwebp_.jpg"
-  },
-  {
-    "title": "Wonderchef Nutri-blend Mixer, Grinder & Blender|Powerful 500W 22000 RPM 100% Full Copper Motor|Stainless steel Blades|2 unbreakable jars|2 Years warranty | Recipe book by Chef Sanjeev Kapoor | Black",
-    "price": "₹2,499",
-    "cutted_price": "₹5,320",
-    "category": "Electronics",
-    "link": "https://amzn.to/3DOcwQj",
-    "img_src": "https://m.media-amazon.com/images/I/61AO78xQcWL._SX679_.jpg"
-  },
-  {
-    "title": "Bajaj GX-1 Mixer Grinder 500W|Superior Mixie For Kitchen|2-in-1 for Dry Grinding| Blade Function With Titan Motor|3 Stainless Steel Mixer Jars|1 Year Product Warranty By Bajaj 【Black】",
-    "price": "₹2,141",
-    "cutted_price": "₹4,125",
-    "category": "Electronics",
-    "link": "https://amzn.to/3G1SCBK",
-    "img_src": "https://m.media-amazon.com/images/I/419Lt9UNP2L._SX300_SY300_QL70_FMwebp_.jpg"
-  }
-]
+    {
+      "title": "Puma Men's Solid Regular Fit T-Shirt",
+      "price": "₹669",
+      "cutted_price": "₹1,499",
+      "category": "Men's Fashion",
+      "link": "https://amzn.to/4jiyaen",
+      "img_src": "https://m.media-amazon.com/images/I/515RdZ6Y65L._SX679_.jpg"
+    },
+    {
+      "title": "Symbol Premium Men's Super Soft Classic Polo T-Shirt: Regular Fit",
+      "price": "₹1,299",
+      "cutted_price": "₹1,699",
+      "category": "Men's Fashion",
+      "link": "https://amzn.to/3RGzZpy",
+      "img_src": "https://m.media-amazon.com/images/I/81a+-Kop5sL._SY550_.jpg"
+    },
+    {
+      "title": "Symbol Premium Regular Fit Casual Cotton Denim Shirt For Men (Cotton | Pack of 1 )",
+      "price": "₹1,399",
+      "cutted_price": "₹2,899",
+      "category": "Men's Fashion",
+      "link": "https://amzn.to/4iS09ln",
+      "img_src": "https://m.media-amazon.com/images/I/71IJunEgJzL._SY550_.jpg"
+    },
+    {
+      "title": "Symbol Premium Regular Fit Casual Shirt For Men (Cotton | Pack of 1 )",
+      "price": "₹1,599",
+      "cutted_price": "₹2,399",
+      "category": "Men's Fashion",
+      "link": "https://amzn.to/3R4ieQU",
+      "img_src": "https://m.media-amazon.com/images/I/71NCBXev2YL._SY550_.jpg"
+    },
+    {
+      "title": "Symbol Premium Men's Super Soft Classic Polo T-Shirt: Regular Fit (Pack of 2)",
+      "price": "₹2,469",
+      "cutted_price": "₹3,398",
+      "category": "Men's Fashion",
+      "link": "https://amzn.to/4jkD4Yb",
+      "img_src": "https://m.media-amazon.com/images/I/614N4xTmFfL._SY550_.jpg"
+    },
+    {
+      "title": "Max Men's Half Sleeves Relaxed Fit Polo Neck T-Shirt",
+      "price": "₹359",
+      "cutted_price": "₹399",
+      "category": "Men's Fashion",
+      "link": "https://amzn.to/42HCT2P",
+      "img_src": "https://m.media-amazon.com/images/I/712Qq0Y58UL._SY550_.jpg"
+    },
+    {
+      "title": "Max Men's Full Sleeves Slim Fit Solid Cotton Shirt",
+      "price": "₹699",
+      "cutted_price": "₹999",
+      "category": "Men's Fashion",
+      "link": "https://amzn.to/42wKG4i",
+      "img_src": "https://m.media-amazon.com/images/I/91YpvsVk+EL._SY550_.jpg"
+    },
+    {
+      "title": "Max Men Regular Fit Shirt",
+      "price": "₹799",
+      "cutted_price": "₹1,299",
+      "category": "Men's Fashion",
+      "link": "https://amzn.to/4jkIiU0",
+      "img_src": "https://m.media-amazon.com/images/I/71QJ7YBdXsL._SY550_.jpg"
+    }
+  ]
