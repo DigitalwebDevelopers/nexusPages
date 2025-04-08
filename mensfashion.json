@@ -1,66 +1,74 @@
 [
   {
     "title": "Puma Men's Solid Regular Fit T-Shirt",
-    "price": "â¹669",
-    "cutted_price": "â¹1,499",
+    "price": "Ã¢ÂÂ¹669",
+    "cutted_price": "Ã¢ÂÂ¹1,499",
     "category": "Men's Fashion",
     "link": "https://amzn.to/4jiyaen",
     "img_src": "https://m.media-amazon.com/images/I/515RdZ6Y65L._SX679_.jpg"
   },
   {
     "title": "Symbol Premium Men's Super Soft Classic Polo T-Shirt: Regular Fit",
-    "price": "â¹1,299",
-    "cutted_price": "â¹1,699",
+    "price": "Ã¢ÂÂ¹1,299",
+    "cutted_price": "Ã¢ÂÂ¹1,699",
     "category": "Men's Fashion",
     "link": "https://amzn.to/3RGzZpy",
     "img_src": "https://m.media-amazon.com/images/I/81a+-Kop5sL._SY550_.jpg"
   },
   {
     "title": "Symbol Premium Regular Fit Casual Cotton Denim Shirt For Men (Cotton | Pack of 1 )",
-    "price": "â¹1,399",
-    "cutted_price": "â¹2,899",
+    "price": "Ã¢ÂÂ¹1,399",
+    "cutted_price": "Ã¢ÂÂ¹2,899",
     "category": "Men's Fashion",
     "link": "https://amzn.to/4iS09ln",
     "img_src": "https://m.media-amazon.com/images/I/71IJunEgJzL._SY550_.jpg"
   },
   {
     "title": "Symbol Premium Regular Fit Casual Shirt For Men (Cotton | Pack of 1 )",
-    "price": "â¹1,599",
-    "cutted_price": "â¹2,399",
+    "price": "Ã¢ÂÂ¹1,599",
+    "cutted_price": "Ã¢ÂÂ¹2,399",
     "category": "Men's Fashion",
     "link": "https://amzn.to/3R4ieQU",
     "img_src": "https://m.media-amazon.com/images/I/71NCBXev2YL._SY550_.jpg"
   },
   {
     "title": "Symbol Premium Men's Super Soft Classic Polo T-Shirt: Regular Fit (Pack of 2)",
-    "price": "â¹2,469",
-    "cutted_price": "â¹3,398",
+    "price": "Ã¢ÂÂ¹2,469",
+    "cutted_price": "Ã¢ÂÂ¹3,398",
     "category": "Men's Fashion",
     "link": "https://amzn.to/4jkD4Yb",
     "img_src": "https://m.media-amazon.com/images/I/614N4xTmFfL._SY550_.jpg"
   },
   {
     "title": "Max Men's Half Sleeves Relaxed Fit Polo Neck T-Shirt",
-    "price": "â¹359",
-    "cutted_price": "â¹399",
+    "price": "Ã¢ÂÂ¹359",
+    "cutted_price": "Ã¢ÂÂ¹399",
     "category": "Men's Fashion",
     "link": "https://amzn.to/42HCT2P",
     "img_src": "https://m.media-amazon.com/images/I/712Qq0Y58UL._SY550_.jpg"
   },
   {
     "title": "Max Men's Full Sleeves Slim Fit Solid Cotton Shirt",
-    "price": "â¹699",
-    "cutted_price": "â¹999",
+    "price": "Ã¢ÂÂ¹699",
+    "cutted_price": "Ã¢ÂÂ¹999",
     "category": "Men's Fashion",
     "link": "https://amzn.to/42wKG4i",
     "img_src": "https://m.media-amazon.com/images/I/91YpvsVk+EL._SY550_.jpg"
   },
   {
     "title": "Max Men Regular Fit Shirt",
-    "price": "â¹799",
-    "cutted_price": "â¹1,299",
+    "price": "Ã¢ÂÂ¹799",
+    "cutted_price": "Ã¢ÂÂ¹1,299",
     "category": "Men's Fashion",
     "link": "https://amzn.to/4jkIiU0",
     "img_src": "https://m.media-amazon.com/images/I/71QJ7YBdXsL._SY550_.jpg"
+  },
+  {
+    "title": "Symbol Premium Regular Fit Casual Cotton Denim Shirt For Men (Cotton | Pack of 1 )",
+    "price": "₹34324",
+    "cutted_price": "₹2343",
+    "category": "MEN'S FASHION",
+    "link": "https://amzn.to/4jqJCEY",
+    "img_src": "https://m.media-amazon.com/images/I/71IJunEgJzL._SX569_.jpg"
   }
 ]
